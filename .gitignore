@@ -1,0 +1,22 @@
+# Python
+*.pyc
+__pycache__/
+*.sqlite3
+.env
+venv/
+# Django
+*.log
+staticfiles/
+media/
+
+# PyCharm
+.idea/
+
+# Docker
+*.pid
+*.tar
+*.db
+
+# Node / Flutter (for future frontend)
+node_modules/
+build/
